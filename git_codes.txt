@@ -1,0 +1,9 @@
+git init
+git add . or git add FILE> > adding to the stages
+git commit -m "VERSION" >> adding to the repository
+
+git status
+git log
+
+git diff FILE
+git checkout FILE
