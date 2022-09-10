@@ -11,3 +11,7 @@ git checkout FILE
 
 git remote add origin LOCAL_GITHUB
 git push -u origin master
+
+
+
+git rm --cached -r "fileName"   >> to remove the fileNAME, or use . to remove everything
