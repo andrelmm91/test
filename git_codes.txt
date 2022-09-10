@@ -7,3 +7,7 @@ git log
 
 git diff FILE
 git checkout FILE
+
+
+git remote add origin LOCAL_GITHUB
+git push -u origin master
